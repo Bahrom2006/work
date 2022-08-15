@@ -1,0 +1,33 @@
+body{
+    background-color: blue;
+}
+.form{
+    display: inline-block;
+    background-color: white;
+    padding: 20px;
+    margin-left: 600px;
+    margin-top: 165px;
+    border-radius: 8px;
+    width: 260px;
+    height: 390px;
+}
+.button1{
+    padding: 7px;
+    width: 260px;
+    border-radius: 4px;
+    background-color: blue;
+    cursor: pointer;
+}
+button:hover{
+    background-color: grey;
+}
+button:active{
+    color: red;
+    background-color: rgba(0, 0, 0, 0.575);
+}
+.u{
+    color: red;
+    background-color: black;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 2px;
+}

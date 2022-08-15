@@ -1,0 +1,40 @@
+body{
+    background-color: blue;
+
+}
+.form{
+    padding: 20px;
+    margin-left: 580px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 180px;
+    
+}
+.button{
+    padding: 7px;
+    width: 280px;
+    border-radius: 4px;
+    background-color: blue;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: grey;
+}
+button:active{
+    color: red;
+    background-color: rgba(0, 0, 0, 0.575);
+}
+.m{
+    outline: none;
+    padding: 8px;
+    border-radius: 4px;
+    width: 250px;
+}
+p{
+    text-align: center;
+}
+.l{
+    color: blue;
+}
